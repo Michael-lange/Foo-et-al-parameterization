@@ -4,9 +4,9 @@ The parameterization can take the radius of a sphere and return its volume usthe
 
 This will be a (fictitious)community project.
 
-There are three ways to access the Foo et al. parameterization.
+There are many ways to access the Foo et al. parameterization.
 
-1. Going to the website [www.michaeljlange.com/](https://www.michaeljlange.com/foo_et_al/sphere.html) to access a web version.
+1. Going to this [website](https://www.michaeljlange.com/foo_et_al/sphere.html) to access a web version.
 2. Add the library to your own project via npm.
 3. Add to your website through the cdn link.
 4. Download the standalone [Version](https://drive.google.com/uc?export=download&id=1EmVe52qegFlhy4af7EwecS2PxLcsdZRT). 

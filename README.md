@@ -20,7 +20,7 @@ If you wish to add this library to your project you can install via NPM:
 ```
 or add this to the `head` tag in your html: 
 ```sh
-    <script src="https://cdn.jsdelivr.net/npm/foo_et_al_param@1.0.0/src/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/foo_et_al_param@1.1.0/src/index.js"></script>
 ```
 After downloading the standalone [Version](https://drive.google.com/uc?export=download&id=1EmVe52qegFlhy4af7EwecS2PxLcsdZRT) unzip the folder 
 got to Foo_Standalone-win32-x64>Foo_Standalone-win32-x64 and run Foo_Standalone.exe
